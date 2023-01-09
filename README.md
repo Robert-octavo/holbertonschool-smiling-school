@@ -6,7 +6,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 Here the final result:
 
-![]()
+![Bootstrap](https://github.com/Robert-octavo/holbertonschool-smiling-school/blob/master/images/3c71cc99d2fc1c12a3d3.jpg)
 
 This webpage has been designed by Nicolas Philippot, UI/UX designer. You can find final screens [here](https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/623/Archive.zip)
 Requirements
