@@ -1,0 +1,15 @@
+* {
+    font-family: 'Source Sans Pro' !important;
+}
+
+header {
+    background-image: url("images/pic_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo {
+    width: auto;
+    height: 30px;
+}
+
